@@ -1,0 +1,1 @@
+print("ini lagi nyoba init 2")
